@@ -1,6 +1,8 @@
 # FlameCoin Core [FLA, ₣]
 ==========================
 
+Trade now on https://flame.exchange!
+
 <a href="https://ibb.co/gPL977"><img src="https://preview.ibb.co/ipDkfS/105695_OMLJSE_613.png" alt="105695_OMLJSE_613" border="0"></a>
 
 ## What is Flamecoin?
